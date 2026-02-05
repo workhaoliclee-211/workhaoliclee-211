@@ -1,47 +1,9 @@
 ## Hi there 👋
 
-I'm **Andrew Solorzano**, a **Senior Full-Stack Engineer & Python AI Specialist** focused on AI-powered backend systems, cloud-native architectures, and scalable platforms in regulated environments.
+I'm **Alex Lee**, a **Senior Full-Stack Engineer & Python AI Specialist** focused on AI-powered backend systems, cloud-native architectures, and scalable platforms in regulated environments.
 
 I enjoy building reliable services, designing clean system architectures, and applying **AI/ML (RAG, agentic workflows, predictive models)** to real-world problems where security, compliance, and performance actually matter. Most of my work revolves around backend engineering, distributed systems, and production-ready AI integrations.
 
-<div align="center">
-  <a href="https://github-trophies.vercel.app/?username=YOUR_GITHUB_USERNAME" target="_blank">
-    <img src="https://github-trophies.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=gotham&margin-w=4&margin-h=4" alt="GitHub Trophies">
-  </a>
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-### 📈 User Statistics
-
-<table>
-  <tbody>
-    <tr>
-      <td padding="0">
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_GITHUB_USERNAME">
-          <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_GITHUB_USERNAME&theme=gotham&hide_border=true" />
-        </a>
-      </td>
-      <td padding="0">
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_GITHUB_USERNAME">
-          <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_GITHUB_USERNAME&theme=gotham&hide_border=true" />
-        </a>
-      </td>
-      <td padding="0">
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_GITHUB_USERNAME">
-          <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_GITHUB_USERNAME&theme=gotham&hide_border=true" />
-        </a>
-      </td>
-      <td padding="0">
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_GITHUB_USERNAME">
-          <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_GITHUB_USERNAME&theme=gotham&hide_border=true" />
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
 
 <br>
 
