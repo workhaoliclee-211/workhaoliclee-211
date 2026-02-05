@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I'm **Alex Lee**, a **Senior Software Engineer** focused on backend systems, cloud-native architectures, and scalable platforms.
+I'm **Alex Lee**, a **Senior Full-Stack Engineer & Python AI Specialist** focused on AI-powered backend systems, cloud-native architectures, and scalable platforms in regulated environments.
 
-I enjoy building reliable services, designing clean system architectures, and turning complex problems into simple, maintainable solutions. Most of my work revolves around backend engineering, distributed systems, and cloud infrastructure.
+I enjoy building reliable services, designing clean system architectures, and applying **AI/ML (RAG, agentic workflows, predictive models)** to real-world problems where security, compliance, and performance actually matter. Most of my work revolves around backend engineering, distributed systems, and production-ready AI integrations.
 
 <div align="center">
   <a href="https://github-trophies.vercel.app/?username=glowhub-1028" target="_blank">
